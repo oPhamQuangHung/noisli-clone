@@ -11,6 +11,15 @@ The app contains those following features:
 
 ## Getting started
 
+> Frontend:
+> - Vue
+> Backend:
+> - Rails
+> - postgresql
+>
+> Frontend path should be developed separately and lives inside design folder.
+> Which will later be transfer into backend assests.
+
 ## Todos
 
 > Common
@@ -32,4 +41,4 @@ The app contains those following features:
 - [ ] facebook auth integration
 - [ ] keep sound mixes by account
 - [ ] keep notes by account
-- [ ] deploy app in heroku
+- [ ] deploy app on Heroku
