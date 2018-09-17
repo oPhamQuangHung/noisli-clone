@@ -37,6 +37,7 @@ The app contains those following features:
 
 > Backend
 
+- [ ] decide online storage
 - [ ] sound streaming api
 - [ ] facebook auth integration
 - [ ] keep sound mixes by account
