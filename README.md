@@ -25,6 +25,9 @@ The app contains those following features:
 > Common
 
 - [ ] user stories
+  - [x] feature sound
+  - [ ] feature note
+  - [ ] feature pomodoro
 - [ ] integrate front-back
 
 > Frontend
